@@ -2,6 +2,8 @@
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
+See [Nuxt 3 x Supabase dos](https://supabase.com/docs/guides/with-nuxt-3) for a good jumping off point for development within this repo.
+
 ## Setup
 
 Make sure to install the dependencies:
